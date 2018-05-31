@@ -1,0 +1,20 @@
+This kernel explores the Credit Card Balance CSV
+
+Credt Card Balance - Feature Engineer
+
+8 Features have been developed from this CSV across two Categories - Customer Risk Profile & Customer Behaviour
+
+This is only an Exploration of potential features.
+
+CUSTOMER RISK PROFILE
+
+Number of Loans per Customer
+Rate at which Loan is paid back by customer - No of instalments per loan
+How much did the Customer load a Credit line?
+How many times did the Customer miss the minimum payment?
+What is the average number of days did Customer go past due date?
+What fraction of minimum payments were missed?
+CUSTOMER BEHAVIOUR PATTERNS
+
+Cash withdrawals VS Overall Spending ratio
+Average number of drawings per customer - Total Drawings / Number of Drawings
